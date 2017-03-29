@@ -13,6 +13,9 @@ Release and pre-release builds can be found on Nuget under [Beam.Net]()
 
 - [Beam.Net](https://www.nuget.org/packages/Beam.Net/)
 - [Beam.Net.Rest](https://www.nuget.org/packages/Beam.Net.Rest/)
+- Beam.Net.Constellation (not released)
+- Beam.Net.Chat (not released)
+- Beam.Net.Interactive (not released)
 
 ## Documentation
 There is not currently any documentation for Beam.Net. If you have any questions or want status updates about the library, please join the [Beam.Net Discord Guild](https://discord.gg/YrpHqEX).
