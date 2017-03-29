@@ -1,7 +1,7 @@
 # Beam.Net
 [![Discord](https://discordapp.com/api/guilds/263424556855721985/widget.png)](https://discord.gg/YrpHqEX)
 
-A .net core implementation of the https;//beam.pro/ version 1 api
+A .net core implementation of the https://beam.pro/ version 1 api
 
 | Build       | Nuget  | Status  |
 | ----------- |:------:|:-------:|
