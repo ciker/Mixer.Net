@@ -1,5 +1,5 @@
 # Beam.Net
-[![Discord](https://discordapp.com/api/guilds/263424556855721985/widget.png)](https://discord.gg/YrpHqEX)
+[![Discord](https://discordapp.com/api/guilds/263424556855721985/widget.png)](https://discord.gg/B4BwQ8r)
 
 A .net core implementation of the https://beam.pro/ version 1 api
 
@@ -18,7 +18,7 @@ Release and pre-release builds can be found on Nuget under [Beam.Net]()
 - Beam.Net.Interactive (not released)
 
 ## Documentation
-There is not currently any documentation for Beam.Net. If you have any questions or want status updates about the library, please join the [Beam.Net Discord Guild](https://discord.gg/YrpHqEX).
+There is not currently any documentation for Beam.Net. If you have any questions or want status updates about the library, please join my [Discord Guild](https://discord.gg/B4BwQ8r).
 
 ## Compiling
 To compile Beam.Net yourself, you will need either of the following:
