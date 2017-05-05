@@ -1,5 +1,5 @@
 # Beam.Net
-[![Discord](https://discordapp.com/api/guilds/263424556855721985/widget.png)](https://discord.gg/B4BwQ8r)
+[![Discord](https://discordapp.com/api/guilds/158057120493862912/widget.png)](https://discord.gg/B4BwQ8r)
 
 A .net core implementation of the https://beam.pro/ version 1 api
 
