@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <Description>Clients and entities for connecting to the Mixer events api</Description>
+    <Version>0.0.1.0</Version>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+    <FileVersion>0.0.1.0</FileVersion>
+    <Authors>Auxesis,Aux</Authors>
+    <PackageTags>mixer,stream,tv,dot,net,core,rest,api,lib,library,socket,websocket,chat,irc,tcp</PackageTags>
+    <PackageLicenseUrl>https://github.com/Aux/Mixer.Net/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Aux/Mixer.Net</PackageProjectUrl>
+    <PackageIconUrl>http://i.imgur.com/cHgvr6x.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Aux/Mixer.Net</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mixer.Net.Core\Mixer.Net.Core.csproj" />
+    <ProjectReference Include="..\Mixer.Net.Rest\Mixer.Net.Rest.csproj" />
+  </ItemGroup>
+
+</Project>
