@@ -5,8 +5,8 @@ A .net standard implementation of the https://mixer.com/ version 1 api, strongly
 
 | Build       | Nuget  | Status  |
 | ----------- |:------:|:-------:|
-| Release     | [![NuGet](https://img.shields.io/nuget/v/Mixer.Net.svg)](https://github.com/Aux/Mixer.Net/) | [![Release](https://travis-ci.org/Aux/Mixer.Net.svg?branch=master)](https://travis-ci.org/Aux/Mixer.Net) |
-| Pre-Release | [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Mixer.Net.svg)](https://github.com/Aux/Mixer.Net/) | [![PreRelease](https://travis-ci.org/Aux/Mixer.Net.svg?branch=dev)](https://travis-ci.org/Aux/Mixer.Net) |
+| Release     | [![NuGet](https://img.shields.io/nuget/v/Mixer.Net.svg)](https://www.nuget.org/packages/Mixer.Net/) | [![Release](https://travis-ci.org/Aux/Mixer.Net.svg?branch=master)](https://travis-ci.org/Aux/Mixer.Net) |
+| Pre-Release | [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Mixer.Net.svg)](https://www.nuget.org/packages/Mixer.Net/) | [![PreRelease](https://travis-ci.org/Aux/Mixer.Net.svg?branch=dev)](https://travis-ci.org/Aux/Mixer.Net) |
 
 ## Builds
 Release and pre-release builds can be found on Nuget under [Mixer.Net]()
