@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Mixer.Net.Core\Mixer.Net.Core.csproj" />
+    <ProjectReference Include="..\..\src\Mixer.Net.Rest\Mixer.Net.Rest.csproj" />
+    <ProjectReference Include="..\..\src\Mixer.Net\Mixer.Net.csproj" />
+  </ItemGroup>
+
+</Project>

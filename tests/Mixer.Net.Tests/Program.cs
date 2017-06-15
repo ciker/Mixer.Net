@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Beam.Net.Examples.Chat
+namespace Mixer.Net.Tests
 {
     class Program
     {

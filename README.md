@@ -1,27 +1,27 @@
-# Beam.Net
+# Mixer.Net
 [![Discord](https://discordapp.com/api/guilds/158057120493862912/widget.png)](https://discord.gg/B4BwQ8r)
 
-A .net core implementation of the https://beam.pro/ version 1 api
+A .net standard implementation of the https://mixer.com/ version 1 api, strongly based on [Discord.Net](https://github.com/RogueException/Discord.Net).
 
 | Build       | Nuget  | Status  |
 | ----------- |:------:|:-------:|
-| Release     | [![NuGet](https://img.shields.io/nuget/v/Beam.Net.svg)](https://github.com/Aux/Beam.Net/) | [![Release](https://travis-ci.org/Aux/Beam.Net.svg?branch=master)](https://travis-ci.org/Aux/Beam.Net) |
-| Pre-Release | [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Beam.Net.svg)](https://github.com/Aux/Beam.Net/) | [![PreRelease](https://travis-ci.org/Aux/Beam.Net.svg?branch=dev)](https://travis-ci.org/Aux/Beam.Net) |
+| Release     | [![NuGet](https://img.shields.io/nuget/v/Mixer.Net.svg)](https://github.com/Aux/Mixer.Net/) | [![Release](https://travis-ci.org/Aux/Mixer.Net.svg?branch=master)](https://travis-ci.org/Aux/Mixer.Net) |
+| Pre-Release | [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Mixer.Net.svg)](https://github.com/Aux/Mixer.Net/) | [![PreRelease](https://travis-ci.org/Aux/Mixer.Net.svg?branch=dev)](https://travis-ci.org/Aux/Mixer.Net) |
 
 ## Builds
-Release and pre-release builds can be found on Nuget under [Beam.Net]()
+Release and pre-release builds can be found on Nuget under [Mixer.Net]()
 
-- [Beam.Net](https://www.nuget.org/packages/Beam.Net/)
-- [Beam.Net.Rest](https://www.nuget.org/packages/Beam.Net.Rest/)
-- Beam.Net.Constellation (not released)
-- Beam.Net.Chat (not released)
-- Beam.Net.Interactive (not released)
+- [Mixer.Net](https://www.nuget.org/packages/Mixer.Net/)
+- [Mixer.Net.Rest](https://www.nuget.org/packages/Mixer.Net.Rest/)
+- Mixer.Net.Constellation (not released)
+- Mixer.Net.Chat (not released)
+- Mixer.Net.Interactive (not released)
 
 ## Documentation
-There is not currently any documentation for Beam.Net. If you have any questions or want status updates about the library, please join my [Discord Guild](https://discord.gg/B4BwQ8r).
+There is not currently any documentation for Mixer.Net. If you have any questions or want status updates about the library, please join my [Discord Guild](https://discord.gg/B4BwQ8r).
 
 ## Compiling
-To compile Beam.Net yourself, you will need either of the following:
+To compile Mixer.Net yourself, you will need either of the following:
 
 ##### Visual Studio
 - [Visual Studio 2017](https://www.microsoft.com/net/core#windowsvs2017)
