@@ -68,7 +68,7 @@ namespace Mixer
 
         public async Task WriteInitialLog()
         {
-            await ClientLogger.InfoAsync($"Mixer v{TwitchConfig.Version} (API v{TwitchConfig.ApiVersion})").ConfigureAwait(false);
+            await ClientLogger.InfoAsync($"Mixer v{MixerConfig.Version} (API v{MixerConfig.ApiVersion})").ConfigureAwait(false);
         }
     }
 }
