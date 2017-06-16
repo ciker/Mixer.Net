@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.4</TargetFramework>
-    <Description>Mixer.Net's rest only client</Description>
+    <Description>Mixer.Net's websocket classes</Description>
     <Version>0.0.1.0</Version>
     <AssemblyVersion>0.0.1.0</AssemblyVersion>
     <FileVersion>0.0.1.0</FileVersion>
@@ -13,11 +13,16 @@
     <PackageIconUrl>http://i.imgur.com/cHgvr6x.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/Aux/Mixer.Net</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <RootNamespace>Mixer.Rest</RootNamespace>
+    <RootNamespace>Mixer</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Net.WebSockets.Client" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Mixer.Net.Core\Mixer.Net.Core.csproj" />
+    <ProjectReference Include="..\Mixer.Net.Rest\Mixer.Net.Rest.csproj" />
   </ItemGroup>
 
 </Project>

@@ -13,11 +13,13 @@
     <PackageIconUrl>http://i.imgur.com/cHgvr6x.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/Aux/Mixer.Net</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <RootNamespace>Mixer.Interactive</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Mixer.Net.Core\Mixer.Net.Core.csproj" />
     <ProjectReference Include="..\Mixer.Net.Rest\Mixer.Net.Rest.csproj" />
+    <ProjectReference Include="..\Mixer.Net.WebSocket\Mixer.Net.WebSocket.csproj" />
   </ItemGroup>
 
 </Project>
